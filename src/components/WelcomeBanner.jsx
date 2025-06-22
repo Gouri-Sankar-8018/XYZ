@@ -28,14 +28,6 @@ const WelcomeBanner = () => {
       bgGradient: "from-red-800 via-rose-200 to-pink-100",
       image: "https://img.ltwebstatic.com/images3_ach/2022/09/19/166357578553460563760f1535bd271475f51fa9e5.jpg?auto=format&fit=crop&w=800",
       stats: { sales: "2.5k+", rating: "4.8★", reviews: "500+" }
-    },
-    {
-      title: "Exclusive Offers",
-      subtitle: "Limited Time Discounts",
-      description: "Grab the best deals before they're gone",
-      bgGradient: "from-gray-800 via-violet-200 to-fuchsia-100",
-      image: "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=800",
-      stats: { discount: "30% off", valid: "till 31st Dec", code: "SAVE30" }
     }
   ];
 
